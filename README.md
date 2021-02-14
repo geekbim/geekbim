@@ -1,4 +1,4 @@
-Setiap Hari Belajar Hal Baru
+Setiap Hari Belajar Hal Baru 🌈
 
 ![geekbim's github stats](https://github-readme-stats.vercel.app/api?username=geekbim&show_icons=true)
 
