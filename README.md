@@ -1,14 +1,12 @@
 Everyday learn new things 🌈
 
-![geekbim's github stats](https://github-readme-stats.vercel.app/api?username=geekbim&show_icons=true)
-
-### Statistic :  
 <a href="./profile-3d-contrib/profile-night-green.svg">
     <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 </a>
 
 Isometric view of contributions in the last year. Languages pie is based on recent commits
 
+### Statistic :
 ![profile-details](profile-summary-card-output/algolia/0-profile-details.svg)
 ![stats](profile-summary-card-output/algolia/1-repos-per-language.svg)
 ![most-commit-language](profile-summary-card-output/algolia/2-most-commit-language.svg)
