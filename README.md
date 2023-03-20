@@ -1,5 +1,3 @@
-Everyday learn new things 🌈
-
 <a href="./profile-3d-contrib/profile-night-green.svg">
     <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 </a>
