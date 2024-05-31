@@ -25,6 +25,16 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/geekbim/geekbim/master/profile-summary-card-output/2077/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
@@ -39,6 +49,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/geekbim/geekbim/master/profile-summary-card-output/2077/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/geekbim/geekbim/master/profile-summary-card-output/2077/4-productive-time.svg)
 ```
 
     
