@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/geekbim/geekbim/master/profile-summary-card-output/cobalt/4-productive-time.svg)
+```
+
+    
